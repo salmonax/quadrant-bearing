@@ -1,0 +1,28 @@
+{
+  "name": "quadrant-bearing",
+  "version": "0.0.1",
+  "description": "A simple azimuth to quadrant-bearing converter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmonax/quadrant-bearing.git"
+  },
+  "keywords": [
+    "compass",
+    "azimuth",
+    "geolocation"
+  ],
+  "author": "George A. Michel <sarumonakuba@gmail.com> (http://abjection.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salmonax/quadrant-bearing/issues"
+  },
+  "homepage": "https://github.com/salmonax/quadrant-bearing#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
