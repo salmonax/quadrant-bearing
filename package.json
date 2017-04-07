@@ -1,6 +1,6 @@
 {
   "name": "quadrant-bearing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple azimuth to quadrant-bearing converter.",
   "main": "index.js",
   "scripts": {
